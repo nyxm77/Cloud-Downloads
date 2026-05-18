@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5361",
+  "folder": "Other__940129_20260518224805_28053e",
+  "base_name": "Other__940129_20260518224805_28053e.rar",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/nyxm77/Cloud-Downloads/releases/tag/co-releases-v1-5361",
+  "files": [
+    {
+      "name": "Other__940129_20260518224805_28053e.rar",
+      "url": "https://github.com/nyxm77/Cloud-Downloads/releases/download/co-releases-v1-5361/Other__940129_20260518224805_28053e.rar",
+      "api_url": "https://api.github.com/repos/nyxm77/Cloud-Downloads/releases/assets/423671250",
+      "id": 423671250,
+      "size": 1048576000,
+      "download_count": 0
+    }
+  ]
+}
