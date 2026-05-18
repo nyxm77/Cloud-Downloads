@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7125",
+  "folder": "Other__940129_20260518225754_4e927c",
+  "base_name": "Other__940129_20260518225754_4e927c.rar",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/nyxm77/Cloud-Downloads/releases/tag/co-releases-v1-7125",
+  "files": [
+    {
+      "name": "Other__940129_20260518225754_4e927c.rar",
+      "url": "https://github.com/nyxm77/Cloud-Downloads/releases/download/co-releases-v1-7125/Other__940129_20260518225754_4e927c.rar",
+      "api_url": "https://api.github.com/repos/nyxm77/Cloud-Downloads/releases/assets/423678383",
+      "id": 423678383,
+      "size": 1048576000,
+      "download_count": 0
+    }
+  ]
+}
