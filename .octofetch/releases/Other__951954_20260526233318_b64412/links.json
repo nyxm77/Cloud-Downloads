@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6691",
+  "folder": "Other__951954_20260526233318_b64412",
+  "base_name": "Tamirat bord nabeghe 81-90.part1.rar",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/nyxm77/Cloud-Downloads/releases/tag/co-releases-v1-6691",
+  "files": [
+    {
+      "name": "Tamirat.bord.nabeghe.81-90.part1.rar",
+      "url": "https://github.com/nyxm77/Cloud-Downloads/releases/download/co-releases-v1-6691/Tamirat.bord.nabeghe.81-90.part1.rar",
+      "api_url": "https://api.github.com/repos/nyxm77/Cloud-Downloads/releases/assets/430593062",
+      "id": 430593062,
+      "size": 1048576000,
+      "download_count": 0
+    }
+  ]
+}
